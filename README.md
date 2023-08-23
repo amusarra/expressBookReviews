@@ -1,1 +1,1 @@
-# coding-project-template
+# Hands on Lab: Book Review Application
